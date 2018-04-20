@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" original="cb327c2c-9d35-4b49-92be-4273b2e24334.md" source-language="en-US" target-language="zh-cn">
+  <file datatype="xml" original="callerMd1.md" source-language="en-US" target-language="zh-cn">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-567ae5a" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">67c69545c01046c5851e2649d45f488c74c1f3a4</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\cb327c2c-9d35-4b49-92be-4273b2e24334.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ae3cd73898d99703fe2fa69d6cb47e67c0f58f27</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\callerMd1.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">01a6e446ba9317f407a8a2b24c4f6643200e837b</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c64a5f1b48c83a40f0cc023f3b8cb43d5c835bef</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">63f6eb23ba29fad494e425429b161274f3b5b29c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bdfe560c3a8a62d0b8a21d5b3af772cd8fa7d5cb</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,9 +16,6 @@
           <source>OpenLocalization Workflow Test MarkDown</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>7ad95cb6-084d-41e5-965c-c018c162eb6a</source>
-        </trans-unit>
-        <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>thanks!</source>
         </trans-unit>
       </group>
