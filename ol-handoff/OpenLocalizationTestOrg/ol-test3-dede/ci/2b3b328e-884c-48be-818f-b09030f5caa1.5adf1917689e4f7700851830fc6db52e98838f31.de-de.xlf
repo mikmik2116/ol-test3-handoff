@@ -5,7 +5,8 @@
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-567ae5a" tool-company="Microsoft" />
       <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eb188ce4600d1579d1725fb21cac04213ddaeba2</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\2b3b328e-884c-48be-818f-b09030f5caa1.md</xliffext:olfilepath>
-      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
       <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0c10dbf5c937fddf6140bc224faed354ff5a10be</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ecd0be8912f89bb3ec9d1c4ece4dd395c300d37b</xliffext:olxliffhash>
@@ -24,4 +25,4 @@
       </group>
     </body>
   </file>
-</xliff><source>d7e8fe34-b1da-4c2d-9197-a28837452cc2</source>
+</xliff>
